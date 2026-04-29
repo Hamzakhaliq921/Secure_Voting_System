@@ -1,0 +1,6 @@
+# --- Build Results ---
+bin/
+obj/
+
+# --- Visual Studio Tooling ---
+.vs/
